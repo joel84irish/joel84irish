@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Joel Irish, a DevOps Engineer 💻 :<br>
+  <br> I'm Joel Irish, a DevOps Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  
@@ -14,8 +14,8 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Backend Engineering Lead working for a Health Tech startup in India 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+     
 - 📝 I regulary write blog articles for [Medium](https://apoorvtyagi.tech/) 
 - 📖 I am currently reading **Property Investment Secerts ** by Rob Moore
 - 💬 Talk to me about IAC, Terraform is my prefered toll to build and deploy infrastructure
