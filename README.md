@@ -7,7 +7,7 @@
  
 <p align="center">
 
-<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/joel-irish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 
 </p>
 
@@ -16,7 +16,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
      
-- 📝 I regulary write blog articles for [Medium](https://apoorvtyagi.tech/) 
+- 📝 I regulary write blog articles for [Medium](https://medium.com/@joelirish) 
 - 📖 I am currently reading **Property Investment Secerts ** by Rob Moore
 - 💬 Talk to me about IAC, Terraform is my prefered toll to build and deploy infrastructure
 - 👯 We can connect and work on open source projects
